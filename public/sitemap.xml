@@ -3,82 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/les-mis%C3%A9rables-by-victor-hugo/</loc>
+    <loc>/gabrielzanlorenssi/blog/les-mis%C3%A9rables-by-victor-hugo/</loc>
     <lastmod>2015-12-21T04:05:25-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/metamorphosis-by-franz-kafka/</loc>
+    <loc>/gabrielzanlorenssi/blog/metamorphosis-by-franz-kafka/</loc>
     <lastmod>2015-12-21T04:03:46-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/use-at-instead-of-head/</loc>
+    <loc>/gabrielzanlorenssi/blog/use-at-instead-of-head/</loc>
     <lastmod>2015-08-25T17:09:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/gabrielzanlorenssi/about/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/gabrielzanlorenssi/blog/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/colophon/</loc>
+    <loc>/gabrielzanlorenssi/about/colophon/</loc>
     <lastmod>2015-08-22T06:28:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/code/</loc>
+    <loc>/gabrielzanlorenssi/code/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/hello-r-markdown/</loc>
+    <loc>/gabrielzanlorenssi/blog/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/gabrielzanlorenssi/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/gabrielzanlorenssi/</loc>
     <lastmod>2015-12-21T04:05:25-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
+    <loc>/gabrielzanlorenssi/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/gabrielzanlorenssi/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>/gabrielzanlorenssi/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>/gabrielzanlorenssi/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/gabrielzanlorenssi/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
