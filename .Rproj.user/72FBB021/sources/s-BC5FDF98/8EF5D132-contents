@@ -1,0 +1,4 @@
+blogdown::new_site(theme="nishanths/cocoa-hugo-theme")
+
+
+blogdown::new_post()

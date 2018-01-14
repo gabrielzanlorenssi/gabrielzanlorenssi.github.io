@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515846004068.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BB183E55",
+    "lastKnownWriteTime" : 1515849980,
+    "last_content_update" : 1515849980403,
+    "path" : "~/Documents/Rstudio/Site/content/blog/2015-07-23-r-rmarkdown.Rmd",
+    "project_path" : "content/blog/2015-07-23-r-rmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,12",
+        "scrollLine" : "22"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
