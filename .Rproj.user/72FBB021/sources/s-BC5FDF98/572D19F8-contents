@@ -1,0 +1,6 @@
+
+# command -----------------------------------------------------------------
+
+blogdown::new_site()
+
+blogdown::install_theme("jpescador/hugo-future-imperfect")
