@@ -12,7 +12,7 @@ pluralizeListTitles = false
   # Sets the meta tag description
   description          = "Personal website and portifolo. Built entirely in R."
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Gabriel Zanlorenssi"
+  navbarTitle          = "Gabriel Zanlorenssi (building)"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 

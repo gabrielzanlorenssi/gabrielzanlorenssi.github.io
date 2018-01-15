@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515978018693.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2031769361",
+    "id" : "1FB1083D",
+    "lastKnownWriteTime" : 1515978024,
+    "last_content_update" : 1515978024486,
+    "path" : "~/Documents/Rstudio/Site/content/blog/migrate-from-jekyll.md",
+    "project_path" : "content/blog/migrate-from-jekyll.md",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
